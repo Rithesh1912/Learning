@@ -1,0 +1,32 @@
+Bootstrap:
+-it is html,css,javascript framework.
+-it makes web app attractive, responsive and mobile friendly.
+-it provides inbuilt classes.
+-latest version of bootstrap 5.
+
+
+two ways to use bootstrap:
+    1) by using cdn link: for this we must have internet connection.
+    2) downloading:only for downloading we require internet connection and for  use not require internet.
+
+official website :
+getbootstrap.com
+
+container classes
+color classes
+bg-classes
+button classes
+spinner-border classes
+spinner-grow classes
+image classes
+table classeshow 
+carousel
+acordian
+nav
+
+grid: use to manage layout of web app by using inbuilt classes
+    in bootstrap grid, it provide mainly 2 classes 
+        1)row class
+        2) col class
+    in bootstrap grid, row we can create columns with size 12, if column size is exceed more than 12 size then column will start fom new row.
+    
